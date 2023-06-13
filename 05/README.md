@@ -131,4 +131,4 @@ Here are some tools that will make it easier for you to visualize these types of
 
 ![Iñigo Quilez - GraphToy (2010)](graphtoy.png)
 
-* [LYGIA Shader Library](https://lygia.xyz/) a shader library of reusable functions that can be include easily on your projects. It's very granular, designed for reusability, performance and flexibility. And can be easily be added to any projects and frameworks.
+* [LYGIA Shader Library](https://lygia.xyz/) is a shader library of reusable functions that can be easily included into your projects. It is very granular and designed for reusability, performance, and flexibility.
